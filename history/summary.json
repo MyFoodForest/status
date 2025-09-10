@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
+    "time": 702,
     "timeDay": 1066,
     "timeWeek": 685,
     "timeMonth": 793,
-    "timeYear": 703,
-    "dailyMinutesDown": {}
+    "timeYear": 702,
+    "dailyMinutesDown": {
+      "2025-09-10": 0
+    }
   },
   {
     "name": "Wikipedia",
