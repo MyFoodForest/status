@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.myfoodforest.nl.ico",
     "slug": "my-food-forest-public-site",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 705,
-    "timeDay": 1038,
-    "timeWeek": 725,
-    "timeMonth": 800,
-    "timeYear": 705,
-    "dailyMinutesDown": {
-      "2025-09-10": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 706,
+    "timeDay": 887,
+    "timeWeek": 742,
+    "timeMonth": 805,
+    "timeYear": 706,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 326,
-    "timeWeek": 167,
-    "timeMonth": 227,
+    "timeDay": 197,
+    "timeWeek": 168,
+    "timeMonth": 220,
     "timeYear": 195,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 103,
-    "timeWeek": 312,
-    "timeMonth": 278,
+    "timeDay": 410,
+    "timeWeek": 318,
+    "timeMonth": 280,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2025-06-28": 20
