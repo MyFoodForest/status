@@ -4,7 +4,7 @@
     "url": "https://www.myfoodforest.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.myfoodforest.nl.ico",
     "slug": "my-food-forest-public-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1392,
     "timeMonth": 1501,
     "timeYear": 1072,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 314,
     "timeDay": 283,
-    "timeWeek": 300,
+    "timeWeek": 306,
     "timeMonth": 307,
     "timeYear": 314,
     "dailyMinutesDown": {
