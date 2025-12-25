@@ -6,18 +6,16 @@
     "slug": "my-food-forest-public-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1078,
-    "timeDay": 1820,
-    "timeWeek": 1508,
-    "timeMonth": 1528,
-    "timeYear": 1078,
-    "dailyMinutesDown": {
-      "2025-12-24": 7
-    }
+    "time": 1081,
+    "timeDay": 2046,
+    "timeWeek": 1592,
+    "timeMonth": 1532,
+    "timeYear": 1081,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 226,
-    "timeWeek": 127,
-    "timeMonth": 208,
-    "timeYear": 211,
+    "time": 210,
+    "timeDay": 89,
+    "timeWeek": 130,
+    "timeMonth": 206,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 283,
-    "timeWeek": 306,
+    "time": 313,
+    "timeDay": 107,
+    "timeWeek": 266,
     "timeMonth": 307,
-    "timeYear": 314,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2025-06-28": 20
     }
