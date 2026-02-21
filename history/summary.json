@@ -4,19 +4,19 @@
     "url": "https://www.myfoodforest.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.myfoodforest.nl.ico",
     "slug": "my-food-forest-public-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1192,
-    "timeDay": 1468,
-    "timeWeek": 1732,
-    "timeMonth": 1755,
-    "timeYear": 1192,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 1196,
+    "timeDay": 1978,
+    "timeWeek": 1826,
+    "timeMonth": 1778,
+    "timeYear": 1196,
     "dailyMinutesDown": {
-      "2026-02-21": 2
+      "2026-02-21": 26
     }
   },
   {
