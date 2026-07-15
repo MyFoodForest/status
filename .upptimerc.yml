@@ -2,6 +2,12 @@
 owner: MyFoodForest # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+# Auto-assign every incident issue to Mark so GitHub notifies him on downtime.
+# (Observability plan 5, 2026-07-15: GitHub-issue-assignee alerting — no SMTP; the
+# Teams Workflow is Azure-Monitor-schema-shaped and would not render Upptime's payload.)
+assignees:
+  - markscholman
+
 sites:
   - name: Public website
     url: https://www.myfoodforest.nl
