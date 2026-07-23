@@ -54,6 +54,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Plant Database Website",
+    "url": "https://plantdatabase.myfoodforest.io/api/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/plantdatabase.myfoodforest.io.ico",
+    "slug": "plant-database-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Admin Portal",
     "url": "https://admin.myfoodforest.io",
     "icon": "https://icons.duckduckgo.com/ip3/admin.myfoodforest.io.ico",
