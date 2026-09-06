@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1790,
-    "timeDay": 1249,
-    "timeWeek": 1856,
-    "timeMonth": 1765,
-    "timeYear": 1790,
+    "time": 1802,
+    "timeDay": 2832,
+    "timeWeek": 1982,
+    "timeMonth": 1812,
+    "timeYear": 1802,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.myfoodforest.io.ico",
     "slug": "my-food-forest-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 714,
-    "timeDay": 451,
-    "timeWeek": 510,
-    "timeMonth": 559,
-    "timeYear": 714,
-    "dailyMinutesDown": {
-      "2026-09-05": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 712,
+    "timeDay": 428,
+    "timeWeek": 509,
+    "timeMonth": 556,
+    "timeYear": 712,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plant Database API",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/plants.myfoodforest.io.ico",
     "slug": "plant-database-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 678,
-    "timeDay": 459,
-    "timeWeek": 488,
-    "timeMonth": 583,
-    "timeYear": 678,
-    "dailyMinutesDown": {
-      "2026-09-05": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 676,
+    "timeDay": 402,
+    "timeWeek": 489,
+    "timeMonth": 582,
+    "timeYear": 676,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plant Database Website",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/plantdatabase.myfoodforest.io.ico",
     "slug": "plant-database-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 559,
-    "timeDay": 357,
-    "timeWeek": 441,
-    "timeMonth": 550,
-    "timeYear": 559,
-    "dailyMinutesDown": {
-      "2026-09-05": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 557,
+    "timeDay": 356,
+    "timeWeek": 442,
+    "timeMonth": 548,
+    "timeYear": 557,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin Portal",
@@ -84,17 +78,15 @@
     "slug": "admin-portal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 634,
+    "time": 958,
+    "timeDay": 686,
     "timeWeek": 826,
-    "timeMonth": 938,
-    "timeYear": 957,
-    "dailyMinutesDown": {
-      "2026-09-05": 6
-    }
+    "timeMonth": 946,
+    "timeYear": 958,
+    "dailyMinutesDown": {}
   }
 ]
