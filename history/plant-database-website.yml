@@ -1,7 +1,7 @@
 url: https://plantdatabase.myfoodforest.io/api/healthz
-status: up
-code: 200
-responseTime: 503
-lastUpdated: 2026-09-07T23:04:20.860Z
+status: down
+code: 403
+responseTime: 264
+lastUpdated: 2026-09-08T20:59:20.769Z
 startTime: 2026-07-23T19:32:53.344Z
 generator: Upptime <https://github.com/upptime/upptime>
