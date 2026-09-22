@@ -24,9 +24,9 @@
     "slug": "my-food-forest-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
     "time": 626,
     "timeDay": 444,
@@ -36,8 +36,7 @@
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
-      "2026-09-14": 20,
-      "2026-09-21": 10
+      "2026-09-14": 20
     }
   },
   {
@@ -47,9 +46,9 @@
     "slug": "plant-database-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
     "time": 602,
     "timeDay": 483,
@@ -59,8 +58,7 @@
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
-      "2026-09-14": 20,
-      "2026-09-21": 10
+      "2026-09-14": 20
     }
   },
   {
@@ -69,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/plantdatabase.myfoodforest.io.ico",
     "slug": "plant-database-website",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.94%",
     "time": 475,
     "timeDay": 303,
     "timeWeek": 362,
@@ -82,8 +80,7 @@
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
-      "2026-09-14": 20,
-      "2026-09-21": 9
+      "2026-09-14": 20
     }
   },
   {
@@ -93,9 +90,9 @@
     "slug": "admin-portal",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
     "time": 870,
     "timeDay": 671,
@@ -105,8 +102,7 @@
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
-      "2026-09-14": 19,
-      "2026-09-21": 9
+      "2026-09-14": 19
     }
   }
 ]
