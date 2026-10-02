@@ -22,15 +22,15 @@
     "url": "https://api.myfoodforest.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.myfoodforest.io.ico",
     "slug": "my-food-forest-api",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.92%",
     "time": 591,
-    "timeDay": 411,
-    "timeWeek": 394,
+    "timeDay": 428,
+    "timeWeek": 398,
     "timeMonth": 438,
     "timeYear": 591,
     "dailyMinutesDown": {
@@ -40,7 +40,7 @@
       "2026-09-22": 32,
       "2026-09-23": 16,
       "2026-09-26": 15,
-      "2026-10-02": 1
+      "2026-10-02": 12
     }
   },
   {
@@ -48,17 +48,17 @@
     "url": "https://plants.myfoodforest.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/plants.myfoodforest.io.ico",
     "slug": "plant-database-api",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.93%",
-    "time": 573,
-    "timeDay": 259,
-    "timeWeek": 403,
-    "timeMonth": 442,
-    "timeYear": 573,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.92%",
+    "time": 574,
+    "timeDay": 433,
+    "timeWeek": 423,
+    "timeMonth": 446,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
@@ -66,7 +66,7 @@
       "2026-09-22": 32,
       "2026-09-23": 16,
       "2026-09-26": 15,
-      "2026-10-02": 1
+      "2026-10-02": 12
     }
   },
   {
@@ -74,16 +74,16 @@
     "url": "https://plantdatabase.myfoodforest.io/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/plantdatabase.myfoodforest.io.ico",
     "slug": "plant-database-website",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.88%",
     "time": 452,
-    "timeDay": 285,
-    "timeWeek": 380,
-    "timeMonth": 380,
+    "timeDay": 358,
+    "timeWeek": 387,
+    "timeMonth": 381,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2026-09-08": 16,
@@ -92,7 +92,7 @@
       "2026-09-22": 31,
       "2026-09-23": 16,
       "2026-09-26": 15,
-      "2026-10-02": 0
+      "2026-10-02": 12
     }
   },
   {
@@ -100,24 +100,24 @@
     "url": "https://myfoodforest.app",
     "icon": "https://icons.duckduckgo.com/ip3/myfoodforest.app.ico",
     "slug": "admin-portal",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.94%",
-    "time": 851,
-    "timeDay": 681,
-    "timeWeek": 745,
-    "timeMonth": 719,
-    "timeYear": 851,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.93%",
+    "time": 853,
+    "timeDay": 824,
+    "timeWeek": 764,
+    "timeMonth": 724,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
       "2026-09-14": 19,
       "2026-09-22": 31,
       "2026-09-23": 16,
-      "2026-10-02": 0
+      "2026-10-02": 12
     }
   }
 ]
