@@ -29,7 +29,7 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.93%",
     "time": 577,
-    "timeDay": 353,
+    "timeDay": 382,
     "timeWeek": 393,
     "timeMonth": 414,
     "timeYear": 577,
@@ -54,7 +54,7 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.93%",
     "time": 566,
-    "timeDay": 396,
+    "timeDay": 416,
     "timeWeek": 443,
     "timeMonth": 433,
     "timeYear": 566,
@@ -79,7 +79,7 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.90%",
     "time": 442,
-    "timeDay": 305,
+    "timeDay": 312,
     "timeWeek": 335,
     "timeMonth": 372,
     "timeYear": 442,
@@ -104,7 +104,7 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.94%",
     "time": 842,
-    "timeDay": 615,
+    "timeDay": 621,
     "timeWeek": 709,
     "timeMonth": 707,
     "timeYear": 842,
@@ -114,6 +114,26 @@
       "2026-09-14": 19,
       "2026-09-22": 31,
       "2026-09-23": 16
+    }
+  },
+  {
+    "name": "Webshop",
+    "url": "https://www.myfoodforest.store/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/www.myfoodforest.store.ico",
+    "slug": "webshop",
+    "status": "up",
+    "uptime": "48.97%",
+    "uptimeDay": "48.97%",
+    "uptimeWeek": "48.97%",
+    "uptimeMonth": "48.97%",
+    "uptimeYear": "48.97%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-08": 0
     }
   }
 ]
