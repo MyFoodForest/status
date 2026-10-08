@@ -19,6 +19,8 @@ sites:
     url: https://plantdatabase.myfoodforest.io/api/healthz
   - name: Admin Portal
     url: https://myfoodforest.app
+  - name: Webshop
+    url: https://www.myfoodforest.store/healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
