@@ -22,15 +22,15 @@
     "url": "https://api.myfoodforest.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.myfoodforest.io.ico",
     "slug": "my-food-forest-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
     "time": 562,
-    "timeDay": 266,
-    "timeWeek": 343,
+    "timeDay": 314,
+    "timeWeek": 348,
     "timeMonth": 464,
     "timeYear": 562,
     "dailyMinutesDown": {
@@ -43,7 +43,7 @@
       "2026-10-09": 15,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-27": 1
+      "2026-10-27": 7
     }
   },
   {
@@ -51,15 +51,15 @@
     "url": "https://plants.myfoodforest.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/plants.myfoodforest.io.ico",
     "slug": "plant-database-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
     "time": 550,
-    "timeDay": 345,
-    "timeWeek": 369,
+    "timeDay": 371,
+    "timeWeek": 373,
     "timeMonth": 461,
     "timeYear": 550,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2026-10-09": 15,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-27": 1
+      "2026-10-27": 7
     }
   },
   {
@@ -80,17 +80,17 @@
     "url": "https://plantdatabase.myfoodforest.io/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/plantdatabase.myfoodforest.io.ico",
     "slug": "plant-database-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.86%",
-    "time": 434,
-    "timeDay": 282,
-    "timeWeek": 328,
-    "timeMonth": 388,
-    "timeYear": 434,
+    "time": 435,
+    "timeDay": 339,
+    "timeWeek": 337,
+    "timeMonth": 391,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
@@ -101,7 +101,7 @@
       "2026-10-09": 15,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-27": 1
+      "2026-10-27": 6
     }
   },
   {
@@ -109,17 +109,17 @@
     "url": "https://myfoodforest.app",
     "icon": "https://icons.duckduckgo.com/ip3/myfoodforest.app.ico",
     "slug": "admin-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
-    "time": 837,
-    "timeDay": 479,
-    "timeWeek": 718,
-    "timeMonth": 788,
-    "timeYear": 837,
+    "time": 838,
+    "timeDay": 581,
+    "timeWeek": 727,
+    "timeMonth": 791,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
@@ -128,7 +128,7 @@
       "2026-09-23": 16,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-27": 1
+      "2026-10-27": 6
     }
   },
   {
@@ -136,24 +136,24 @@
     "url": "https://www.myfoodforest.store/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/www.myfoodforest.store.ico",
     "slug": "webshop",
-    "status": "down",
-    "uptime": "88.25%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "88.25%",
-    "uptimeYear": "88.25%",
-    "time": 391,
-    "timeDay": 261,
-    "timeWeek": 320,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "status": "up",
+    "uptime": "88.23%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "88.23%",
+    "uptimeYear": "88.23%",
+    "time": 393,
+    "timeDay": 299,
+    "timeWeek": 324,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2026-10-10": 603,
       "2026-10-09": 1440,
       "2026-10-08": 611,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-27": 0
+      "2026-10-27": 6
     }
   }
 ]
