@@ -136,17 +136,17 @@
     "url": "https://www.myfoodforest.store/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/www.myfoodforest.store.ico",
     "slug": "webshop",
-    "status": "down",
-    "uptime": "94.55%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "94.55%",
-    "time": 461,
-    "timeDay": 1091,
-    "timeWeek": 715,
-    "timeMonth": 445,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "94.54%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "94.54%",
+    "time": 462,
+    "timeDay": 1029,
+    "timeWeek": 705,
+    "timeMonth": 446,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2026-10-10": 603,
       "2026-10-09": 1440,
@@ -154,7 +154,7 @@
       "2026-10-21": 25,
       "2026-10-22": 37,
       "2026-10-29": 16,
-      "2026-11-15": 0
+      "2026-11-15": 6
     }
   }
 ]
