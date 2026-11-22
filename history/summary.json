@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1365,
-    "timeDay": 159,
-    "timeWeek": 150,
-    "timeMonth": 187,
-    "timeYear": 1365,
+    "time": 1359,
+    "timeDay": 341,
+    "timeWeek": 177,
+    "timeMonth": 193,
+    "timeYear": 1359,
     "dailyMinutesDown": {}
   },
   {
@@ -24,14 +24,14 @@
     "slug": "my-food-forest-api",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
     "time": 531,
-    "timeDay": 342,
-    "timeWeek": 389,
-    "timeMonth": 395,
+    "timeDay": 338,
+    "timeWeek": 414,
+    "timeMonth": 401,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2026-09-08": 16,
@@ -43,8 +43,7 @@
       "2026-10-09": 15,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-29": 16,
-      "2026-11-21": 7
+      "2026-10-29": 16
     }
   },
   {
@@ -54,15 +53,15 @@
     "slug": "plant-database-api",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 535,
-    "timeDay": 394,
-    "timeWeek": 390,
-    "timeMonth": 447,
-    "timeYear": 535,
+    "time": 536,
+    "timeDay": 453,
+    "timeWeek": 441,
+    "timeMonth": 456,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
@@ -73,8 +72,7 @@
       "2026-10-09": 15,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-29": 16,
-      "2026-11-21": 6
+      "2026-10-29": 16
     }
   },
   {
@@ -84,15 +82,15 @@
     "slug": "plant-database-website",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
-    "time": 422,
-    "timeDay": 368,
-    "timeWeek": 350,
-    "timeMonth": 372,
-    "timeYear": 422,
+    "time": 423,
+    "timeDay": 347,
+    "timeWeek": 384,
+    "timeMonth": 377,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
@@ -103,8 +101,7 @@
       "2026-10-09": 15,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-29": 16,
-      "2026-11-21": 6
+      "2026-10-29": 16
     }
   },
   {
@@ -114,15 +111,15 @@
     "slug": "admin-portal",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
-    "time": 858,
-    "timeDay": 657,
-    "timeWeek": 1114,
-    "timeMonth": 883,
-    "timeYear": 858,
+    "time": 859,
+    "timeDay": 602,
+    "timeWeek": 1258,
+    "timeMonth": 872,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2026-09-08": 16,
       "2026-09-11": 17,
@@ -131,8 +128,7 @@
       "2026-09-23": 16,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-29": 16,
-      "2026-11-21": 6
+      "2026-10-29": 16
     }
   },
   {
@@ -141,15 +137,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.myfoodforest.store.ico",
     "slug": "webshop",
     "status": "up",
-    "uptime": "95.34%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "95.34%",
+    "uptime": "95.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "95.42%",
     "time": 456,
-    "timeDay": 382,
-    "timeWeek": 698,
-    "timeMonth": 452,
+    "timeDay": 375,
+    "timeWeek": 810,
+    "timeMonth": 458,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2026-10-10": 603,
@@ -157,8 +153,7 @@
       "2026-10-08": 611,
       "2026-10-21": 25,
       "2026-10-22": 37,
-      "2026-10-29": 16,
-      "2026-11-21": 6
+      "2026-10-29": 16
     }
   }
 ]
